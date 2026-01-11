@@ -17,6 +17,7 @@ Discount & Rating Correlation: Investigating how discount percentages impact cus
 Technical Stack
 
 Language: Python
+jupyter Notebook
 
 Libraries:
 
